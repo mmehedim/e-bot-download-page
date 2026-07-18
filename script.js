@@ -1,7 +1,7 @@
 const software = [
 
 {
-    Name:"📂 E-BOT Recovery",
+    name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"152 MB",
     released:"18 Jul 2026",
@@ -9,7 +9,7 @@ const software = [
 },
 
 {
-    Name:"📂 E-BOT Recovery",
+    name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"149 MB",
     released:"16 Jul 2026",
@@ -17,7 +17,7 @@ const software = [
 },
 
 {
-    Name:"📂 E-BOT Recovery",
+    name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"138 MB",
     released:"10 Jul 2026",
@@ -25,7 +25,7 @@ const software = [
 },
 
 {
-    Name:"📂 E-BOT Recovery",
+    name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"138 MB",
     released:"10 Jul 2026",
@@ -34,7 +34,7 @@ const software = [
 
     
 {
-    Name:"📂 E-BOT Recovery",
+    name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"157 MB",
     released:"03 Jul 2026",
@@ -51,7 +51,7 @@ table.innerHTML += `
 
 <tr>
 
-<td>${item.Name}</td>
+<td>${item.name}</td>
 
 <td>${item.version}</td>
 
