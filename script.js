@@ -25,6 +25,30 @@ const software = [
 },
 
 {
+    name:"📂 E_Bot_Match",
+    version:"v1.0.0",
+    size:"92 MB",
+    released:"13 Jul 2026",
+    download:"your download link"
+},
+
+{
+    name:"📂 E_bot_N_self",
+    version:"v1.0.0",
+    size:"42 MB",
+    released:"22 Sep 2025",
+    download:"your download link"
+},
+
+{
+    name:"📂 E_Bot_Rec_Pro",
+    version:"v1.0.0",
+    size:"113 MB",
+    released:"08 Jul 2026",
+    download:"your download link"
+},
+    
+{
     name:"📂 E-BOT Recovery",
     version:"4.4",
     size:"157 MB",
