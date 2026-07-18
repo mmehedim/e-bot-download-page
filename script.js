@@ -54,7 +54,7 @@ table.innerHTML += `
 
 <a href="${item.download}">
 
-<button>Download</button>
+<button>⬇ Download</button>
 
 </a>
 
