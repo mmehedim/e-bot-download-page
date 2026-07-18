@@ -1,7 +1,7 @@
 const software = [
 
 {
-    program:"E-BOT Recovery",
+    program:"📂E-BOT Recovery",
     version:"2.1.0",
     size:"152 MB",
     released:"18 Jul 2026",
