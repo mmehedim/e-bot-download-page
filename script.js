@@ -1,7 +1,7 @@
 const software = [
 
 {
-    program:"E-BOT Recovery",
+    name:"📂 E-BOT Recovery",
     version:"2.1.0",
     size:"152 MB",
     released:"18 Jul 2026",
@@ -9,7 +9,7 @@ const software = [
 },
 
 {
-    program:"Account Creator",
+    name:"📂 E-BOT Recovery",
     version:"1.5.2",
     size:"149 MB",
     released:"16 Jul 2026",
@@ -17,7 +17,7 @@ const software = [
 },
 
 {
-    program:"Proxy Manager",
+    name:"📂 E-BOT Recovery",
     version:"3.0",
     size:"138 MB",
     released:"10 Jul 2026",
@@ -25,7 +25,7 @@ const software = [
 },
 
 {
-    program:"Cookie Checker",
+    name:"📂 E-BOT Recovery",
     version:"4.4",
     size:"157 MB",
     released:"03 Jul 2026",
@@ -42,7 +42,7 @@ table.innerHTML += `
 
 <tr>
 
-<td>${item.program}</td>
+<td>${item.name}</td>
 
 <td>${item.version}</td>
 
