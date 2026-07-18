@@ -57,7 +57,7 @@ table.innerHTML += `
 
 <td>${item.size}</td>
 
-<td>${item.Last Modified}</td>
+<td>${item.released}</td>
 
 <td>
 
