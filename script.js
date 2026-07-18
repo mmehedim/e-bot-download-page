@@ -9,7 +9,7 @@ const software = [
 },
 
 {
-    program:"Account Creator",
+    program:"📄Account Creator",
     version:"1.5.2",
     size:"149 MB",
     released:"16 Jul 2026",
