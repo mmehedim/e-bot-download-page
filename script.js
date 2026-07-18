@@ -1,7 +1,7 @@
 const software = [
 
 {
-    program:"📂E-BOT Recovery",
+    program:"📂 E-BOT Recovery",
     version:"2.1.0",
     size:"152 MB",
     released:"18 Jul 2026",
@@ -9,7 +9,7 @@ const software = [
 },
 
 {
-    program:"📄Account Creator",
+    program:"📄 Account Creator",
     version:"1.5.2",
     size:"149 MB",
     released:"16 Jul 2026",
@@ -17,7 +17,7 @@ const software = [
 },
 
 {
-    program:"Proxy Manager",
+    program:"📁 Proxy Manager",
     version:"3.0",
     size:"138 MB",
     released:"10 Jul 2026",
