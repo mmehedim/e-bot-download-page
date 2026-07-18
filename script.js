@@ -4,7 +4,7 @@ const software = [
     Name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"152 MB",
-    Last Modified:"18 Jul 2026",
+    released:"18 Jul 2026",
     download:"https://github.com/USERNAME/e-bot-download-page/releases/download/v2.1.0/E-BOT-Recovery.exe"
 },
 
@@ -12,7 +12,7 @@ const software = [
     Name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"149 MB",
-    Last Modified:"16 Jul 2026",
+    released:"16 Jul 2026",
     download:"https://github.com/USERNAME/e-bot-download-page/releases/download/v1.5.2/Account-Creator.exe"
 },
 
@@ -20,7 +20,7 @@ const software = [
     Name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"138 MB",
-    Last Modified:"10 Jul 2026",
+    released:"10 Jul 2026",
     download:"https://github.com/USERNAME/e-bot-download-page/releases/download/v3.0/Proxy-Manager.exe"
 },
 
@@ -28,7 +28,7 @@ const software = [
     Name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"138 MB",
-    Last Modified:"10 Jul 2026",
+    released:"10 Jul 2026",
     download:"https://github.com/USERNAME/e-bot-download-page/releases/download/v3.0/Proxy-Manager.exe"
 },
 
@@ -37,7 +37,7 @@ const software = [
     Name:"📂 E-BOT Recovery",
     version:"v1.0.0",
     size:"157 MB",
-    Last Modified:"03 Jul 2026",
+    released:"03 Jul 2026",
     download:"https://github.com/USERNAME/e-bot-download-page/releases/download/v4.4/Cookie-Checker.exe"
 }
 
