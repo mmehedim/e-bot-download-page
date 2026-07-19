@@ -1,7 +1,7 @@
 const software = [
 
 {
-    name:"📂 E-Bot_Hunter.exe",
+    name:"📂 E-Bot_Number_Hunter.exe",
     version:"v1.0.0",
     size:"17 MB",
     released:"19 Jul 2026",
@@ -30,7 +30,7 @@ const software = [
     version:"v1.0.0",
     size:"18 MB",
     released:"19 Jul 2026",
-    download:"your download link"
+    download:"https://github.com/mmehedim/e-bot-download-page/releases/download/E-BOT_Number/E-BOT_Number.exe"
 }
 
 ];
