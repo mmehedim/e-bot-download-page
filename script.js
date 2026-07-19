@@ -11,7 +11,7 @@ const software = [
 {
     name:"📂 E-Bot_Rec_Pro.exe",
     version:"v1.0.0",
-    size:"18 MB",
+    size:"36 MB",
     released:"19 Jul 2026",
     download:"your download link"
 },
@@ -28,7 +28,7 @@ const software = [
 {
     name:"📂 E-BOT_Number.exe",
     version:"v1.0.0",
-    size:"36 MB",
+    size:"18 MB",
     released:"19 Jul 2026",
     download:"your download link"
 }
