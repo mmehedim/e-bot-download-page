@@ -4,7 +4,7 @@ const software = [
     name:"📂 E-BOT Recovery",
     version:"2.1.0",
     size:"152 MB",
-    released:"18 Jul 2026",
+    released:"22 Sep 2025 01:33 PM",
     download:"https://github.com/USERNAME/e-bot-download-page/releases/download/v2.1.0/E-BOT-Recovery.exe"
 },
 
