@@ -22,7 +22,7 @@ const software = [
     version:"v1.0.0",
     size:"29 MB",
     released:"19 Jul 2026",
-    download:"your download link"
+    download:"https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Mail_Recovery/E-Bot_Mail_Recovery.exe"
 },
 
 {
