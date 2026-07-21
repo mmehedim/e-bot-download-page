@@ -9,7 +9,7 @@ const software = [
 },
 
 {
-    name:"📂 E-Bot_Rec_Pro.exe",
+    name:"📂 E-Bot_Recovery_Pro.exe",
     version:"v1.0.0",
     size:"36 MB",
     released:"19 Jul 2026",
