@@ -18,7 +18,7 @@ const software = [
 
     
 {
-    name:"📂 E-Bot_Mail_Recovery.exe",
+    name:"📂 E-Bot_Mail_Checker.exe",
     version:"v1.0.0",
     size:"29 MB",
     released:"19 Jul 2026",
