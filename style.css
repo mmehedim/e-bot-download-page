@@ -125,7 +125,8 @@ td:nth-child(1){
 th:nth-child(2),
 td:nth-child(2){
     text-align:left;
-    width:25%;
+    white-space:normal;
+    word-break:break-word;
 }
 
 /* Version */
