@@ -112,51 +112,42 @@ button:hover{
 
 }
 
-/* Program column */
 
-th:first-child,
-td:first-child{
-
+/* Name */
+th:nth-child(1),
+td:nth-child(1){
     text-align:left;
-
     padding-left:25px;
+    width:25%;
+}
 
-    width:40%;
-
+/* Details */
+th:nth-child(2),
+td:nth-child(2){
+    text-align:left;
+    width:25%;
 }
 
 /* Version */
-
-th:nth-child(2),
-td:nth-child(2){
-
-    width:12%;
-
+th:nth-child(3),
+td:nth-child(3){
+    width:10%;
 }
 
 /* Size */
-
-th:nth-child(3),
-td:nth-child(3){
-
-    width:12%;
-
-}
-
-/* Release Date */
-
 th:nth-child(4),
 td:nth-child(4){
-
-    width:16%;
-
+    width:10%;
 }
 
-/* Download Button */
-
+/* Released */
 th:nth-child(5),
 td:nth-child(5){
+    width:15%;
+}
 
-    width:20%;
-
+/* Download */
+th:nth-child(6),
+td:nth-child(6){
+    width:15%;
 }
