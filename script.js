@@ -1,34 +1,45 @@
 const software = [
     {
         name: "📂 E-Bot_Number_Hunter.exe",
-        details: "Searches phone numbers.",
-        version: "v1.0.0",
+        details: "Using self VPN/proxy",
+        version: "v1.0.1",
         size: "17 MB",
-        released: "19 Jul 2026",
+        released: "4 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter/E-Bot_Hunter.exe"
     },
     {
         name: "📂 E-Bot_Recovery_Pro.exe",
-        details: "Recovery tool.",
-        version: "v1.0.0",
+        details: "Number Recovery.",
+        version: "v1.0.1",
         size: "36 MB",
-        released: "19 Jul 2026",
+        released: "4 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro/E-Bot_Rec_Pro.exe"
     },
+
+    {
+        name: "📂 E-Bot_Recovery_Pro (GB).exe",
+        details: "GB Ip/Proxy Special.",
+        version: "v1.0.1",
+        size: "36 MB",
+        released: "4 August 2026",
+        download: "https://github.com"
+    },
+
+    
     {
         name: "📂 E-Bot_Mail_Checker.exe",
         details: "Checks email accounts.",
-        version: "v1.0.0",
+        version: "v1.0.1",
         size: "29 MB",
-        released: "19 Jul 2026",
+        released: "4 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Mail_Recovery/E-Bot_Mail_Recovery.exe"
     },
     {
         name: "📂 E-BOT_Number.exe",
-        details: "Generates phone numbers.",
-        version: "v1.0.0",
+        details: "Using Hotspot Shield VPN.",
+        version: "v1.0.1",
         size: "18 MB",
-        released: "19 Jul 2026",
+        released: "4 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-BOT_Number/E-BOT_Number.exe"
     }
 ];
