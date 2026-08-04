@@ -2,6 +2,7 @@ const software = [
 
 {
     name:"📂 E-Bot_Number_Hunter.exe",
+    details:"Searches and collects phone numbers.",
     version:"v1.0.0",
     size:"17 MB",
     released:"19 Jul 2026",
@@ -10,15 +11,16 @@ const software = [
 
 {
     name:"📂 E-Bot_Recovery_Pro.exe",
+    details:"Advanced recovery and account management tool.",
     version:"v1.0.0",
     size:"36 MB",
     released:"19 Jul 2026",
     download:"https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro/E-Bot_Rec_Pro.exe"
 },
 
-    
 {
     name:"📂 E-Bot_Mail_Checker.exe",
+    details:"Checks email accounts and reports their status.",
     version:"v1.0.0",
     size:"29 MB",
     released:"19 Jul 2026",
@@ -27,6 +29,7 @@ const software = [
 
 {
     name:"📂 E-BOT_Number.exe",
+    details:"Generates and validates phone numbers.",
     version:"v1.0.0",
     size:"18 MB",
     released:"19 Jul 2026",
@@ -34,6 +37,7 @@ const software = [
 }
 
 ];
+
 
 const table = document.getElementById("softwareTable");
 
@@ -45,6 +49,8 @@ table.innerHTML += `
 
 <td>${item.name}</td>
 
+<td>${item.details}</td>
+
 <td>${item.version}</td>
 
 <td>${item.size}</td>
@@ -52,17 +58,11 @@ table.innerHTML += `
 <td>${item.released}</td>
 
 <td>
-
 <a href="${item.download}">
-
 <button>⬇ Download</button>
-
 </a>
-
 </td>
 
 </tr>
 
 `;
-
-});
