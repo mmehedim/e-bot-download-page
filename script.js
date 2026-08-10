@@ -41,7 +41,17 @@ const software = [
         size: "18 MB",
         released: "4 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-BOT_Number/E-BOT_Number.exe"
+    },
+    {
+        name: "📂 E-Bot_Proxy_Checker.exe",
+        details: "Bulk Proxy Checker",
+        version: "v1.0.0",
+        size: "31 MB",
+        released: "10 August 2026",
+        download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Proxy_Checker/E-Bot_Proxy_Checker.exe"
     }
+
+    
 ];
 
 const table = document.getElementById("softwareTable");
