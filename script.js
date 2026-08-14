@@ -10,7 +10,7 @@ const software = [
     {
         name: "📂 E-Bot_Recovery_Pro.exe",
         details: "Number Recovery.",
-        version: "v1.0.1",
+        version: "v1.0.2",
         size: "36 MB",
         released: "4 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro/E-Bot_Rec_Pro.exe"
@@ -19,7 +19,7 @@ const software = [
     {
         name: "📂 E-Bot_Recovery_Pro (GB).exe",
         details: "GB Ip/Proxy Special.",
-        version: "v1.0.1",
+        version: "v1.0.2",
         size: "37 MB",
         released: "4 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro_GB/E-Bot_Rec_Pro_GB.exe"
