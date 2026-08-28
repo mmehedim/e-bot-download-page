@@ -4,7 +4,7 @@ const software = [
         details: "Using self VPN/proxy",
         version: "v1.0.1",
         size: "17 MB",
-        released: "28 August 2026",
+        released: "29 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter/E-Bot_Hunter.exe"
     },
     {
