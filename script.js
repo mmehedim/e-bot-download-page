@@ -37,9 +37,9 @@ const software = [
     {
         name: "📂 E-BOT_Number.exe",
         details: "Using Hotspot Shield VPN.",
-        version: "v1.0.1",
+        version: "v1.0.2",
         size: "18 MB",
-        released: "4 August 2026",
+        released: "31 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-BOT_Number/E-BOT_Number.exe"
     },
     {
