@@ -21,7 +21,7 @@ const software = [
         details: "GB Ip/Proxy Special.",
         version: "v1.0.2",
         size: "37 MB",
-        released: "21 August 2026",
+        released: "31 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro_GB/E-Bot_Rec_Pro_GB.exe"
     },
 
