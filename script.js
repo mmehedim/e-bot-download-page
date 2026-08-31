@@ -29,9 +29,9 @@ const software = [
     {
         name: "📂 E-Bot_Mail_Checker.exe",
         details: "Checks email accounts.",
-        version: "v1.0.1",
+        version: "v1.0.2",
         size: "29 MB",
-        released: "4 August 2026",
+        released: "31 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Mail_Recovery/E-Bot_Mail_Recovery.exe"
     },
     {
