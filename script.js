@@ -2,9 +2,9 @@ const software = [
     {
         name: "📂 E-Bot_Number_Hunter.exe",
         details: "Using self VPN/proxy",
-        version: "v1.0.1",
+        version: "v1.0.2",
         size: "17 MB",
-        released: "29 August 2026",
+        released: "31 August 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter/E-Bot_Hunter.exe"
     },
     {
