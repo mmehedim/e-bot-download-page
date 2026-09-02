@@ -5,7 +5,7 @@ const software = [
         version: "v1.0.2",
         size: "17 MB",
         released: "31 August 2026",
-        download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter/E-Bot_Hunter.exe"
+        download: "https://github.com.exe"
     },
     {
         name: "📂 E-Bot_Recovery_Pro.exe",
