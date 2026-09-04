@@ -2,26 +2,26 @@ const software = [
     {
         name: "📂 E-Bot_Number_Hunter.exe",
         details: "Using self VPN/proxy",
-        version: "v1.0.2",
+        version: "v1.0.3",
         size: "17 MB",
-        released: "31 August 2026",
+        released: "5 September 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter/E-Bot_Hunter.exe"
     },
     {
         name: "📂 E-Bot_Recovery_Pro.exe",
         details: "Number Recovery.",
-        version: "v1.0.2",
+        version: "v1.0.3",
         size: "36 MB",
-        released: "31 August 2026",
+        released: "5 September 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro/E-Bot_Rec_Pro.exe"
     },
 
     {
         name: "📂 E-Bot_Recovery_Pro (GB).exe",
         details: "GB Ip/Proxy Special.",
-        version: "v1.0.2",
+        version: "v1.0.3",
         size: "37 MB",
-        released: "31 August 2026",
+        released: "5 September 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro_GB/E-Bot_Rec_Pro_GB.exe"
     },
 
@@ -29,9 +29,9 @@ const software = [
     {
         name: "📂 E-Bot_Mail_Checker.exe",
         details: "Checks email accounts.",
-        version: "v1.0.2",
+        version: "v1.0.3",
         size: "29 MB",
-        released: "31 August 2026",
+        released: "5 September 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Mail_Recovery/E-Bot_Mail_Recovery.exe"
     },
     {
