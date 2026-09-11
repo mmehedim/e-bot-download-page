@@ -4,7 +4,7 @@ const software = [
         details: "Using self VPN/proxy",
         version: "v1.0.3",
         size: "17 MB",
-        released: "5 September 2026",
+        released: "11 September 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter/E-Bot_Hunter.exe"
     },
     {
@@ -12,7 +12,7 @@ const software = [
         details: "Number Recovery.",
         version: "v1.0.3",
         size: "36 MB",
-        released: "5 September 2026",
+        released: "11 September 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro/E-Bot_Rec_Pro.exe"
     },
 
@@ -21,7 +21,7 @@ const software = [
         details: "GB Ip/Proxy Special.",
         version: "v1.0.3",
         size: "37 MB",
-        released: "5 September 2026",
+        released: "11 September 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro_GB/E-Bot_Rec_Pro_GB.exe"
     },
 
