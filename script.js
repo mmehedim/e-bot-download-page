@@ -4,9 +4,18 @@ const software = [
         details: "Using self VPN/proxy",
         version: "v1.0.3",
         size: "17 MB",
-        released: "11 September 2026",
+        released: "28 September 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter/E-Bot_Hunter.exe"
     },
+    {
+        name: "📂 E-Bot_Hunter_server_base.exe",
+        details: "All Number Uploaded into server",
+        version: "v1.0.0",
+        size: "17 MB",
+        released: "28 September 2026",
+        download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter_server_base/E-Bot_Hunter_server_base.exe"
+    },
+
     {
         name: "📂 E-Bot_Recovery_Pro.exe",
         details: "Number Recovery.",
