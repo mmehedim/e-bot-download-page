@@ -7,31 +7,14 @@ const software = [
         released: "17 October 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter/E-Bot_Hunter.exe"
     },
-    {
-        name: "📂 E-Bot_Hunter_server_base.exe",
-        details: "All Number Uploaded into server",
-        version: "v1.0.0",
-        size: "17 MB",
-        released: "28 September 2026",
-        download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunter_server_base/E-Bot_Hunter_server_base.exe"
-    },
 
     {
         name: "📂 E-Bot_Recovery_Pro.exe",
         details: "Number Recovery.",
-        version: "v1.0.3",
+        version: "v1.0.4",
         size: "36 MB",
-        released: "11 September 2026",
+        released: "28 October 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro/E-Bot_Rec_Pro.exe"
-    },
-
-    {
-        name: "📂 E-Bot_Recovery_Pro (GB).exe",
-        details: "GB Ip/Proxy Special.",
-        version: "v1.0.3",
-        size: "37 MB",
-        released: "11 September 2026",
-        download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro_GB/E-Bot_Rec_Pro_GB.exe"
     },
 
     
