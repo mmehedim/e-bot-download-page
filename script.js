@@ -37,9 +37,9 @@ const software = [
     {
         name: "📂 E-Bot_Proxy_Checker.exe",
         details: "Bulk Proxy Checker",
-        version: "v1.0.2",
+        version: "v1.0.3",
         size: "31 MB",
-        released: "5 September 2026",
+        released: "18 November 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Proxy_Checker/E-Bot_Proxy_Checker.exe"
     }
 
