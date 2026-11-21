@@ -4,7 +4,7 @@ const software = [
         details: "Multi Browser Number Recovery",
         version: "v1.0.0",
         size: "44 MB",
-        released: "20 November 2026",
+        released: "21 November 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Hunting_Multi_Browser/E-Bot_Hunting_Multi_Browser.exe"
     },
     
@@ -22,7 +22,7 @@ const software = [
         details: "Number Recovery.",
         version: "v1.0.5",
         size: "36 MB",
-        released: "20 November 2026",
+        released: "21 November 2026",
         download: "https://github.com/mmehedim/e-bot-download-page/releases/download/E-Bot_Rec_Pro/E-Bot_Rec_Pro.exe"
     },
 
